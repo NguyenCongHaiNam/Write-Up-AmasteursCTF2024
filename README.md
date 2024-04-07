@@ -3,6 +3,7 @@
 
 ![image](https://github.com/NguyenCongHaiNam/Write-Up-AmasteursCTF2024/assets/116544941/5f91e664-b259-4cb1-890a-2f27ddaaf89c)
 
+## Rank per 1200 teams
 
 ## Category
 
