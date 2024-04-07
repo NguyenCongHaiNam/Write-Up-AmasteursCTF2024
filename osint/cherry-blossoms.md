@@ -18,6 +18,11 @@ Sau đó tìm kiếm thêm một chút bằng nghiệp vụ🤭 thì đây là �
 
 ![image](https://github.com/NguyenCongHaiNam/Write-Up-AmasteursCTF2024/assets/116544941/b3b68e70-9550-4a34-8cb3-c34be7e753a1)
 
-Công cuộc tìm kiếm cái cây kia bắt đầu 🕵️ Vì thời gian chụp bức ảnh và thời gian những người chụp trên street view khác nhau nên mình mất khá nhiều thời gian để tìm điểm tương đồng và cuối chúng thì đây là kết
+Công cuộc tìm kiếm cái cây kia bắt đầu 🕵️ Vì thời gian chụp bức ảnh và thời gian những người chụp trên street view khác nhau nên mình mất khá nhiều thời gian để tìm điểm tương đồng và cuối chúng thì đây là kết quả:
+
+<img width="959" alt="image" src="https://github.com/NguyenCongHaiNam/Write-Up-AmasteursCTF2024/assets/116544941/bd626ebf-e8c9-42dc-b9a1-097e41280689">
+
+
+
 
 
