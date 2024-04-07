@@ -1,6 +1,9 @@
 ## Description
 
 > I was on an in-state skiing trip with my family when we decided to go out and see some sights. I remember needing to go to the bathroom near where these pictures were taken and then leaving a review. Can you find this review for me?
+![493B0E69-C226-4171-B565-2E68ECF25A29](https://github.com/NguyenCongHaiNam/Write-Up-AmasteursCTF2024/assets/116544941/27415388-e78a-46e8-8b76-d2fe998cc89f)
+![67BC754A-C818-4358-8E4F-16DF8B2230E8](https://github.com/NguyenCongHaiNam/Write-Up-AmasteursCTF2024/assets/116544941/ce1c207d-ea1a-4ed5-9161-53ccce8bfa25)
+
 
 ## Recon
 
