@@ -22,6 +22,7 @@ Công cuộc tìm kiếm cái cây kia bắt đầu 🕵️ Vì thời gian ch�
 
 <img width="959" alt="image" src="https://github.com/NguyenCongHaiNam/Write-Up-AmasteursCTF2024/assets/116544941/bd626ebf-e8c9-42dc-b9a1-097e41280689">
 
+Có lẽ vì mùa khác nhau nên mang lại cảm giác không giống, nhưng để ý kĩ thì hai bức ảnh có rất nhiều điểm chung. Challenge Osint cuối cùng sẽ được mình update sau khi đọc wu .--.
 
 
 
