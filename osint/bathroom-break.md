@@ -20,9 +20,13 @@ Xem qua trang ig này một lúc thì có vẻ là trang truyền thông của m
 
 > Bức ảnh chụp ở một đoạn Hot Creek( suối nước nóng) trong quần thể MammothGear
 
-Bây giờ thì tìm kiếm cái `review` mà đề bài đã đề cập trong `I remember needing to go to the bathroom near where these pictures were taken and then leaving a review` thôi. Nhắc đến review thì ta có thể nghĩ đến Google Map, một công cụ vô cùng phổ biến. Lục lọi một lúc thì mình tìm được![image](https://github.com/NguyenCongHaiNam/Write-Up-AmasteursCTF2024/assets/116544941/ca528932-2c6a-4e17-a34e-c960b5463e82)
+Bây giờ thì tìm kiếm cái `review` mà đề bài đã đề cập trong `I remember needing to go to the bathroom near where these pictures were taken and then leaving a review` thôi. Nhắc đến review thì ta có thể nghĩ đến Google Map, một công cụ vô cùng phổ biến. Lục lọi một lúc thì mình tìm được
 
-Thông tin khá khớp với những giừ mình đã có, địa điểm là một "Hot Creek", có "bathroom" ở gần, nhưng đi sâu vào từng bức ảnh và street view mình vẫn không tìm được cái review đề bài đề cập. Quay lại vị trí phía trên mình để ý có một cái toilet tên là `Vault Toilets` khá nổi bật, thì đúng như vậy "go to the bathroom" trong đề bài ngoài nghĩa là đến nhà tắm hay đến bồn tắm ra thì còn có nghĩa là....![image](https://github.com/NguyenCongHaiNam/Write-Up-AmasteursCTF2024/assets/116544941/3b35fa32-9676-4093-afa9-174d9bf075ac)
+![image](https://github.com/NguyenCongHaiNam/Write-Up-AmasteursCTF2024/assets/116544941/ca528932-2c6a-4e17-a34e-c960b5463e82)
+
+Thông tin khá khớp với những gì mình đã có, địa điểm là một "Hot Creek", có "bathroom" ở gần, nhưng đi sâu vào từng bức ảnh và street view mình vẫn không tìm được cái review đề bài đề cập. Quay lại vị trí phía trên mình để ý có một cái toilet tên là `Vault Toilets` khá nổi bật, thì đúng như vậy "go to the bathroom" trong đề bài ngoài nghĩa là đến nhà tắm hay đến bồn tắm ra thì còn có nghĩa là....
+
+![image](https://github.com/NguyenCongHaiNam/Write-Up-AmasteursCTF2024/assets/116544941/3b35fa32-9676-4093-afa9-174d9bf075ac)
 
 
 
