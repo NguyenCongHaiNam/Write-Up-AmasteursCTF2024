@@ -10,5 +10,6 @@
  1. Osint
  - [Bathroom Break](https://github.com/NguyenCongHaiNam/Write-Up-AmasteursCTF2024/blob/main/osint/bathroom-break.md)
  - [Cherry Blossoms](https://github.com/NguyenCongHaiNam/Write-Up-AmasteursCTF2024/blob/main/osint/cherry-blossoms.md)
+ - [Wumpus Leak](https://github.com/NguyenCongHaiNam/Write-Up-AmasteursCTF2024/blob/main/osint/wumpus-leak.py)
  2. Web
  - [One Shot](https://github.com/NguyenCongHaiNam/Write-Up-AmasteursCTF2024/blob/main/web/one-shot.md)
